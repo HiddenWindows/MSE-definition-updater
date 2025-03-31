@@ -6,4 +6,4 @@ Ever since Microsoft Security Essentials stopped receiving automatic malware def
 # How does this program update MSE's malware definitions?
 When Windows starts up, this program will start downloading the latest malware definition from Microsoft and installs it silently.
 
-NOTE: It downloads the definition updates directly from Microsoft
+NOTE: It downloads the definition updates directly from Microsoft and not other sources.
