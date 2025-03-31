@@ -8,4 +8,5 @@ Ever since Microsoft Security Essentials stopped receiving automatic malware def
 When Windows starts up, this program will start downloading the latest malware definition from Microsoft and installs it silently.
 
 If the program no longer work, contact me via reddit (u/HiddenWindows7601) and I will fix it.
+
 NOTE: It downloads the definition updates directly from Microsoft and not other sources.
