@@ -9,7 +9,7 @@ You will need to update your root certificates and install Service Pack 1 (Win7)
 
 When Windows starts up, this program will start downloading the latest malware definition from Microsoft and installs it silently.
 
-If the program no longer work, contact me via reddit (u/HiddenWindows7601) or discord (HiddenWindows) and I will fix it.
+If the program is no longer functioning correctly, please submit an issue on GitHub so it can be reviewed.
 
 NOTE: It downloads the definition updates directly from Microsoft and not other sources.
 
