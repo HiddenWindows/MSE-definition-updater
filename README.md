@@ -2,6 +2,7 @@
 A third-party tool to update Microsoft Security Essentials malware definitions.
 
 Ever since Microsoft Security Essentials stopped receiving automatic malware definition updates, this tool allows you to restore its ability to update definitions automatically. It works on Windows Vista and Windows 7. Default install directory is at drive C.
+You will need to update your root certificates and install Service Pack 1 before installing this program.
 
 
 **How does this program update MSE's malware definitions?**
