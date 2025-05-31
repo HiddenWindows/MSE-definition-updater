@@ -5,6 +5,8 @@ Ever since Microsoft Security Essentials stopped receiving automatic malware def
 You will need to update your root certificates and install Service Pack 1 (Win7) or SP2 (Win Vista) before installing this program. It is also highly recommended that you update your system.
 If this program doesn't work, try installing KB4474419 and if it still doesn't work, file a issue.
 
+This program is not not affiliated with Microsoft. This is a 3rd party program, please use it at your own risk. However, it has been tested and works fine.
+
 
 **How does this program update MSE's malware definitions?**
 
