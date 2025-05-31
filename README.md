@@ -18,10 +18,8 @@ NOTE: It downloads the definition updates directly from Microsoft and not other 
 
 **More detail of MSE definition updater files**
 
-All the .exe files are just bat to exe conversion. I had to do it to make the batch files run as administrator to apply the "Run" registry key as for some reason I can't make inno setup apply the registry keys.
+"PostInstall.exe" is used to add MSE Definition updater to startup and removes it from startup when uninstall
 
 Only "wget.exe" is not my  program. You can find more info about wget here: https://www.gnu.org/software/wget/
 
 "hide.vbs" is to hide the "Update.cmd"/MSE updater on startup so that it doesn't annoy the user while it is updating MSE definition
-
-The false positive is mostly from the bat to exe conversion, I will try to fix it.
