@@ -2,8 +2,8 @@
 A third-party tool to update Microsoft Security Essentials malware definitions.
 
 Ever since Microsoft Security Essentials stopped receiving automatic malware definition updates, this tool allows you to restore its ability to update definitions automatically. It works on Windows Vista and Windows 7. Default install directory is at drive C.
-You will need to update your root certificates and install Service Pack 1 (Win7) or SP2 (Win Vista) before installing this program. It is also highly recommended that you update your system.
-If this program doesn't work, try installing KB4474419 and if it still doesn't work, file a issue.
+You will need to update your root certificates and install Service Pack 1 (Win7) or SP2 (Win Vista) before installing this program. It is highly recommended that you update your system.
+If this program doesn't work, try installing KB4474419 (Note, for Windows Vista install the Server 2008 update) and if it still doesn't work, file a issue.
 
 This program is not not affiliated with Microsoft. This is a 3rd party program, please use it at your own risk. However, it has been tested and works fine.
 
