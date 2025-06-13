@@ -8,7 +8,7 @@ You will need to update your root certificates and install Service Pack 1 (Win7)
 Please install update "KB4474419" before installing this program (Note, for Windows Vista install the Server 2008 update) and if it still doesn't work, file a issue.
 
 This program is not not affiliated with Microsoft. This is a 3rd party program, please use it at your own risk. However, it has been tested and works fine.
-You can also use other tools like Legacy Update if you want, this tool isn't the best, but it does the job.
+I'd recommend you to use "Legacy Update" to update your old systems.
 
 
 **How does this program update MSE's malware definitions?**
