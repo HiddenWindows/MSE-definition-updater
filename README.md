@@ -15,7 +15,7 @@ I'd recommend you to use "Legacy Update" to update your old systems.
 
 When Windows starts up, this program will start downloading the latest malware definition from Microsoft and installs it silently.
 
-If the program is no longer functioning correctly, please submit an issue on GitHub so it can be reviewed.
+If the program can't update MSE definitions, please submit an issue on GitHub.
 
 NOTE: It downloads the definition updates directly from Microsoft and not other sources.
 
