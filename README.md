@@ -1,4 +1,4 @@
-# MSE Definition updater
+# MSE definition updater
 A third-party tool to update Microsoft Security Essentials malware definitions.
 
 **Please read this before installing. Do not ignore**
@@ -28,6 +28,7 @@ NOTE: It downloads the definition updates directly from Microsoft and not from o
 "Update.cmd" is used to download the malware definitions from Microsoft and installs it.
 
 "wget.exe" is not my  program. You can find more info about wget here: https://www.gnu.org/software/wget/
+
 
 
 
