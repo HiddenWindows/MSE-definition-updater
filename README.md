@@ -21,7 +21,7 @@ NOTE: It downloads the definition updates directly from Microsoft and not from o
 
 **More detail of MSE definition updater files**
 
-"PostInstall.exe" is used to add MSE Definition updater to startup and removes it from startup when uninstall
+"PostInstall.exe" is used to add MSE definition updater to startup and removes it from startup when uninstall
 
 "hide.vbs" is to hide the MSE updater on startup so that it doesn't annoy the user while it is updating MSE definition
 (NOTE: This file has a lot of false positives. You can read the file contents to make sure it is safe)
@@ -29,6 +29,7 @@ NOTE: It downloads the definition updates directly from Microsoft and not from o
 "Update.cmd" is used to download the malware definitions from Microsoft and installs it.
 
 "wget.exe" is not my  program. You can find more info about wget here: https://www.gnu.org/software/wget/
+
 
 
 
