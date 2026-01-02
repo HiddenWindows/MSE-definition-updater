@@ -10,7 +10,7 @@ Please install update "KB4474419" before installing this program (Note, for Wind
 NOTE: This program doesn't modify Microsoft Security Essentials, you still will not be able to update malware definitions directly from MSE. Instead on every startup, this tool will update MSE malware definitions automatically. To manually update Microsoft Security Essentials you will need to type "C:\MSEDefinitionUpdater\Update.cmd" on the run box.
 
 This program is not affiliated with Microsoft. This is a 3rd party program, please use it at your own risk. However, it has been tested and works fine.
-I'd recommend you to use "Legacy Update" to update your old systems.
+I'd recommend you to use "Legacy Update" on your old systems that Windows Update doesn't work on. (Legacy Update isn't made by me)
 
 
 **How does this program update MSE's malware definitions?**
@@ -28,7 +28,8 @@ NOTE: It downloads the definition updates directly from Microsoft and not from o
 
 "Update.cmd" is used to download the malware definitions from Microsoft and installs it.
 
-"wget.exe" is not my  program. You can find more info about wget here: https://www.gnu.org/software/wget/
+"wget.exe" is not my program. You can find more info about wget here: https://www.gnu.org/software/wget/
+
 
 
 
