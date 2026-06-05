@@ -1,5 +1,6 @@
 # MSE Definition Updater
 A third party tool to update Microsoft Security Essentials malware definitions.
+
 Copyright © 2026 HiddenWindows. This program is licensed under the GNU GPL v3.0.
 
 **Please read the following before installing this tool. Please do not ignore.**
