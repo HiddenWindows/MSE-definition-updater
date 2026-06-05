@@ -5,7 +5,7 @@ Copyright © 2026 HiddenWindows. This program is licensed under the GNU GPL v3.0
 
 **Please read the following before installing this tool. Please do not ignore.**
 
-Ever since Microsoft Security Essentials (MSE) stopped receiving automatic malware definition updates, this tool allows you to restore its ability to update malware definitions automatically. It works on Windows Vista and Windows 7 only. Default install directory is on drive C.
+Ever since Microsoft Security Essentials (MSE) stopped receiving automatic malware definition updates, this tool allows you to restore its ability to update malware definitions automatically. It works on Windows Vista and Windows 7 only. Default install directory is at drive C.
 You will need to update your root certificates and install Service Pack 1 for Windows 7 or SP2 for Windows Vista. After that, you will need to install update "KB4474419" before installing this program (Note, for Windows Vista install the Server 2008 update) and if it still doesn't work, file an issue on github. After installing, you must restart your computer for the tool to take effect.
 
 NOTE: This program doesn't modify Microsoft Security Essentials, you still will not be able to update malware definitions directly from MSE. Instead on every startup, this tool will update MSE malware definitions automatically. To manually update Microsoft Security Essentials you will need to type "C:\MSEDefinitionUpdater\Update.cmd" on the run box.
