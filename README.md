@@ -1,15 +1,15 @@
-# MSE definition updater
+# MSE Definition Updater
 A third party tool to update Microsoft Security Essentials malware definitions.
+Copyright © 2026 HiddenWindows. This program is licensed under the GNU GPL v3.0.
 
-**Please read this before installing. Do not ignore**
+**Please read the following before installing this tool. Please do not ignore.**
 
-Ever since Microsoft Security Essentials (MSE) stopped receiving automatic malware definition updates, this tool allows you to restore its ability to update malware definitions automatically. It works on Windows Vista and Windows 7. Default install directory is at drive C.
-You will need to update your root certificates and install Service Pack 1 (Win7) or SP2 (Win Vista) before installing this program. It is also highly recommended that you fully update your system.
-Please install update "KB4474419" before installing this program (Note, for Windows Vista install the Server 2008 update) and if it still doesn't work, file an issue on github. After installing, you must restart your computer for the tool to take effect.
+Ever since Microsoft Security Essentials (MSE) stopped receiving automatic malware definition updates, this tool allows you to restore its ability to update malware definitions automatically. It works on Windows Vista and Windows 7 only. Default install directory is on drive C.
+You will need to update your root certificates and install Service Pack 1 for Windows 7 or SP2 for Windows Vista. After that, you will need to install update "KB4474419" before installing this program (Note, for Windows Vista install the Server 2008 update) and if it still doesn't work, file an issue on github. After installing, you must restart your computer for the tool to take effect.
 
 NOTE: This program doesn't modify Microsoft Security Essentials, you still will not be able to update malware definitions directly from MSE. Instead on every startup, this tool will update MSE malware definitions automatically. To manually update Microsoft Security Essentials you will need to type "C:\MSEDefinitionUpdater\Update.cmd" on the run box.
 
-This program is not affiliated with Microsoft. This is a 3rd party program, please use it at your own risk. However, it has been tested and works fine.
+This program is not affiliated with Microsoft. This is a 3rd party program, please use it at your own risk. However, this program has been tested and works fine.
 I'd recommend you to use "Legacy Update" on your old systems that Windows Update doesn't work on. (Legacy Update isn't made by me)
 
 
@@ -29,13 +29,6 @@ NOTE: It downloads the definition updates directly from Microsoft and not from o
 "Update.cmd" is used to download the malware definitions from Microsoft and installs it.
 
 "wget.exe" is not my program. You can find more info about wget here: https://www.gnu.org/software/wget/
-
-
-
-
-
-
-
 
 
 
